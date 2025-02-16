@@ -1,0 +1,15 @@
+button {
+    border-color: hsl(0, 0%, 45%);
+    border-radius: 5px;
+}
+
+.left {
+    background-color: #000000;
+    color: hwb(0 100% 0%);
+    font-weight: bold;
+}
+
+.right {
+    background-color: rgb(241, 241, 121);
+    color: black;
+}
